@@ -265,7 +265,7 @@ ul .box {
     background-color: #e2dfdf;
 
   }
-  .share{
+  /* .share{
     display: flex;
     justify-content: end;
   }
@@ -280,11 +280,11 @@ ul .box {
     z-index: 1; 
     border-radius: 10px;
     background-color:#bdbcb9;
-  }
+  } */
   img {
     transition: transform 0.5s ease; 
   }
   
   img:hover {
-    transform: scale(1.1);
+    transform: scale(1.05);
   }
